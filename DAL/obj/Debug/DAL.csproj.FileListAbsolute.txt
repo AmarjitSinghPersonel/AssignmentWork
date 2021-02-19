@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\CRUD_Assg\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\source\repos\CRUD_Assg\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\CRUD_Assg\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\CRUD_Assg\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\source\repos\CRUD_Assg\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\source\repos\CRUD_Assg\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
